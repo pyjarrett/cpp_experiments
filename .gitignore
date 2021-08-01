@@ -1,0 +1,5 @@
+# Ignore build and IDE directories.
+cmake-build-debug/
+build/
+.idea/
+.vs/
